@@ -1,22 +1,12 @@
-# estoque
+# Trilha alura Clojure
 
-A Clojure library designed to ... well, that part is up to you.
+Repositório destinado a exemplos realizados na trilha sobre Clojure da alura.
 
-## Usage
+## Anotações importantes
 
-FIXME
+Será montado um notion explicando alguns conceitos importantes e detalhando um pouco mais os exercicios aqui contidos.
 
-## License
+## Próximos passos
 
-Copyright © 2021 FIXME
+Próximo objetivo é criar um API simples utilizando Clojure e datomic, o tema ainda será definido.
 
-This program and the accompanying materials are made available under the
-terms of the Eclipse Public License 2.0 which is available at
-http://www.eclipse.org/legal/epl-2.0.
-
-This Source Code may also be made available under the following Secondary
-Licenses when the conditions for such availability set forth in the Eclipse
-Public License, v. 2.0 are satisfied: GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or (at your
-option) any later version, with the GNU Classpath Exception which is available
-at https://www.gnu.org/software/classpath/license.html.
