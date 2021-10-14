@@ -36,4 +36,13 @@
 (meu-map println [])
 (meu-map println nil)
 
+;TAIL RECURSION
+(defn meu-map
+  [funcao sequencia]
+  (let [primeiro (first sequencia)]
+    (if (not (nil? primeiro))
+      (do
+        (funcao primeiro)
+        (recur funcao (rest sequencia))))))
+
 
